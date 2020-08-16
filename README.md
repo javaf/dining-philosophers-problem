@@ -6,3 +6,8 @@ See [Philosopher.java] for code, and [repl.it] for output.
 
 [Philosopher.java]: https://repl.it/@wolfram77/dining-philosophers-problem#Philosopher.java
 [repl.it]: https://dining-philosophers-problem.wolfram77.repl.run
+
+
+### references
+
+- [Deadlock 3: Dining Philosophers](https://www.youtube.com/watch?v=_ruovgwXyYs)
