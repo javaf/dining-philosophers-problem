@@ -10,4 +10,5 @@ See [Philosopher.java] for code, and [repl.it] for output.
 
 ### references
 
-- [Deadlock 3: Dining Philosophers](https://www.youtube.com/watch?v=_ruovgwXyYs)
+- [Deadlock 3: Dining Philosophers :: Jacob Schrum](https://www.youtube.com/watch?v=_ruovgwXyYs)
+- [The dining philosophers problem Solution in java :: Hasitha Chandula](https://medium.com/@hasitha.chandula/the-dining-philosophers-problem-solution-in-java-223daf103c2)
