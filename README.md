@@ -2,6 +2,19 @@ There are 5 philosophers sitting around a table. Each philosopher thinks, or whe
 
 One idea to solve the dependency cycle is to alter the order in which the last philosopher picks up forks. 
 
+Each philosoper:
+
+1. thinks (sleep 100ms)
+2. picks left fork (i) (or waits)
+3. picks right fork (i+1) (or waits)
+4. eats (sleep 100ms)
+5. puts back right fork
+6. puts back left fork
+
+**EXCEPT** the last philospher, who instead
+picks up his right fork first; this is
+what helps us to avoid deadlock.
+
 See [Philosopher.java] for code, and [repl.it] for output.
 
 [Philosopher.java]: https://repl.it/@wolfram77/dining-philosophers-problem#Philosopher.java
