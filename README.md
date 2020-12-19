@@ -9,6 +9,12 @@ are waiting for the other fork to be put down.
 One idea to solve the dependency cycle is to alter the
 order in which the last philosopher picks up forks. 
 
+> **Course**: [Concurrent Data Structures], Monsoon 2020<br>
+> **Taught by**: Prof. Govindarajulu Regeti
+<br>
+
+[Concurrent Data Structures]: https://github.com/iiithf/concurrent-data-structures
+
 ```java
 philosoper(i):
 1. Think (sleep 100ms)
