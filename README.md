@@ -63,3 +63,5 @@ See [Main.java] for code, and [repl.it] for output.
 
 - [Deadlock 3: Dining Philosophers :: Jacob Schrum](https://www.youtube.com/watch?v=_ruovgwXyYs)
 - [The dining philosophers problem Solution in java :: Hasitha Chandula](https://medium.com/@hasitha.chandula/the-dining-philosophers-problem-solution-in-java-223daf103c2)
+
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/javaf/dining-philosophers-problem)
